@@ -6,6 +6,7 @@ An AI-powered multilingual YouTube video summarization tool that extracts, trans
 streamlit run app.py
 
 ## Screenshots
-
-![YouTube Summarizer UI](assets/1.png)
-![YouTube Summarizer UI](assets/2.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/1.png" alt="YouTube Summarizer UI" style="width: 48%;"/>
+    <img src="assets/2.png" alt="YouTube Summarizer UI" style="width: 48%;"/>
+</div>
